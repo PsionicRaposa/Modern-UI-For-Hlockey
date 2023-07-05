@@ -1,5 +1,8 @@
 # Modern UI For Hlockey
-Version 1.0.0.
+
+![Screenshot of the Hlockey website with added padding, new alignments for headings, and a renewed greyscale color theme](ModernUIPrimaryScreenshot.png?raw=true "UI Screenshot")
+
+Version 1.0.0
 
 Modern userstyle UI for Hlockey meant to be used with Stylus.
 
