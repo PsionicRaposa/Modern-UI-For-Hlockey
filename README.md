@@ -23,4 +23,4 @@ Future plans may include Light and Team based theming options.
    
 4. Enjoy
 
-Tip: If the style is not already active, click on the Stylus extension icon and mark the checkbox for the userstyle theme to activate.
+   Tip: If the style is not already active, click on the Stylus extension icon and mark the checkbox for the userstyle theme to activate.
