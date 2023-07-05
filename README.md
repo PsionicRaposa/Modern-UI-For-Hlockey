@@ -14,9 +14,9 @@ Expect bug fixes in the coming weeks.
 
 Future plans may include Light and Team based theming options.
 
-# Steps for Installation:
+# Recommended Steps for Installation:
 
-1. Download the Stylus extension from the Chrome Web Store at:
+1. (Skip if you have Stylus) Download the Stylus extension from the Chrome Web Store at:
   
    https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
 
@@ -31,3 +31,15 @@ Future plans may include Light and Team based theming options.
 4. Enjoy
 
    Tip: If the style is not already active, click on the Stylus extension icon and mark the checkbox for the userstyle theme to activate.
+
+# Alternative Installation:
+
+1. (Skip if you have Stylus) Download the Stylus extension from the Chrome Web Store at:
+  
+   https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne
+
+2. Download the [userstyle.css](userstyle.css) from the repository
+
+3. In the Stylus settings, click "Import" and find the path to the userstyle.css file.
+
+4. Enjoy
