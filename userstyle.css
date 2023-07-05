@@ -1,7 +1,17 @@
+/* ==UserStyle==
+@name         Modern UI for Hlockey
+@version      20230705.15.17
+@namespace    userstyles.world/user/PsionicRaposa
+@description  A revamped UI for the Hlockey website.
+@author       PsionicRaposa
+@license      GNU GPLv3
+==/UserStyle== */
+
+@-moz-document domain("hlockey.onrender.com") {
+
 /*Modern UI for Hlockey*/
 /*Version 1.0.0*/
 /*Theme by PsionicRaposa*/
-
 
 body {
     background-color: #272727;
@@ -81,4 +91,5 @@ padding: 0.3rem;
 #pages {
      background-color: rgba(26, 26,26);
      border-bottom: none;
+}
 }
