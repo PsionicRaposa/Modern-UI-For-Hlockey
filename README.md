@@ -6,7 +6,7 @@ Version 1.0.0
 
 Modern userstyle UI for Hlockey meant to be used with Stylus.
 
-Works on Firefox and most Chromium based browsers.
+Works on Firefox and most Chromium based browsers (ex: Chrome and Edge)
 
 Works on the Kiwi and Yandex mobile browsers.
 
