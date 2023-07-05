@@ -41,5 +41,9 @@ Future plans may include Light and Team based theming options.
 2. Download the [userstyle.css](userstyle.css) from the repository
 
 3. In the Stylus settings, click "Import" and find the path to the userstyle.css file.
+   
+4. Head to the Hlockey website at:
+    
+   https://hlockey.onrender.com/
 
-4. Enjoy
+5. Enjoy
