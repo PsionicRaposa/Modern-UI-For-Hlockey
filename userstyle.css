@@ -1,0 +1,84 @@
+/*Modern UI for Hlockey*/
+/*Version 1.0.0*/
+/*Theme by PsionicRaposa*/
+
+
+body {
+    background-color: #272727;
+}
+
+/*All interactable elements*/
+a, button, input {
+    transition: background 0.3s;
+    padding: 0.3rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/*Account settings buttons*/
+button {
+    border-radius: 1rem;
+    border: none;
+    border-collapse: separate;
+    box-shadow: 0rem 0rem 0.2rem 0.1rem rgba(0, 0, 0, 1);;
+}
+/*League buttons*/
+a.button {
+    box-shadow: 0rem 0rem 0.4rem 0.1rem rgba(0, 0, 0, 0.75);
+}
+/*Game and stats UI (Tables) */
+table {
+    min-width: 325px;
+    border-radius: 1rem;
+    border: none;
+    border-collapse: separate;
+    box-shadow: 0rem 0rem 0.4rem 0.1rem rgba(0, 0, 0, 0.75);
+}
+
+/*Headings*/
+h2 {
+     text-align: center;
+}
+
+/*Content on page*/
+#content {
+    margin: 1rem 20%;
+}
+
+/*All web links*/
+a:-webkit-any-link {
+  border: none;
+  border-radius: 1rem;
+  text-decoration: none;
+  margin: 0.3rem;
+}
+
+/*Account settings input fields*/
+input{
+    border-radius: 1rem;
+    border: none;
+    border-collapse: separate;
+    box-shadow: 0rem 0rem 0.2rem 0.1rem rgba(0, 0, 0, 0.75);
+}
+
+/*Response navigation bar for mobile*/
+@media screen and (min-width: 600px) {
+  nav {
+    padding: 1rem 33%;
+  }
+}
+
+/*All navigation bars*/
+nav {
+  border-bottom: 1px solid #535353;
+}
+
+/*Navigation bar contents*/
+nav a {    
+padding: 0.3rem;
+}
+/*Top navigation bar*/
+#pages {
+     background-color: rgba(26, 26,26);
+     border-bottom: none;
+}
