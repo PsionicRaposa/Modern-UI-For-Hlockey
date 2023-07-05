@@ -3,6 +3,10 @@ Version 1.0.0.
 
 Modern userstyle UI for Hlockey meant to be used with Stylus.
 
+Works on most Chromium based browsers.
+
+Works on the Kiwi and Yandex mobile browsers.
+
 Expect bug fixes in the coming weeks.
 
 Future plans may include Light and Team based theming options.
